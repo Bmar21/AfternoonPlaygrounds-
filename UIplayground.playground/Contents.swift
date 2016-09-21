@@ -2,8 +2,17 @@
 
 import UIKit
 var DynamicView=UIView(frame: CGRectMake(100, 200, 100, 200))
-DynamicView.backgroundColor=UIColor.blueColor()
-DynamicView.layer.cornerRadius=25
-DynamicView.layer.borderWidth=2
-self.view.addSubview(DynamicView)
+DynamicView.backgroundColor=UIColor.purpleColor()
+DynamicView.layer.cornerRadius=325
+DynamicView.layer.borderWidth=25
+DynamicView
+var toasty = "blarg"
 
+import UIKit
+var label:UILabel!
+var button:UILabel!
+
+override init (frame : CGRect) {
+    super.init(frame : frame)
+    self.background = UI
+}

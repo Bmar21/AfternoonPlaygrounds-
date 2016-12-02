@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BA8D946EEC5C9A523CFE51B82CEF0517514A2CA3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BA8D946EEC5C9A523CFE51B82CEF0517514A2CA3" : 0,
+    "3CC7E1173280C0352FFC7FDED92A6253C289F561" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3802552D-40BF-4F9B-8369-3D581C4E2326",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BA8D946EEC5C9A523CFE51B82CEF0517514A2CA3" : "CardGame\/",
+    "3CC7E1173280C0352FFC7FDED92A6253C289F561" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CardGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CardGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bmar21\/AfternoonPlaygrounds-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CC7E1173280C0352FFC7FDED92A6253C289F561"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bmar21\/CardGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA8D946EEC5C9A523CFE51B82CEF0517514A2CA3"
+    }
+  ]
+}

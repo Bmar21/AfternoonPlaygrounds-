@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "748DFC43E3BD8D3C7115D1AD869A20D6938259D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "748DFC43E3BD8D3C7115D1AD869A20D6938259D2" : 0,
+    "3CC7E1173280C0352FFC7FDED92A6253C289F561" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "466C6BBC-E06A-4535-8CB2-01544FD6B1D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "748DFC43E3BD8D3C7115D1AD869A20D6938259D2" : "Transitions\/",
+    "3CC7E1173280C0352FFC7FDED92A6253C289F561" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Transitions",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Transitions.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bmar21\/AfternoonPlaygrounds-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CC7E1173280C0352FFC7FDED92A6253C289F561"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bmar21\/Transitions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "748DFC43E3BD8D3C7115D1AD869A20D6938259D2"
+    }
+  ]
+}

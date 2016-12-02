@@ -32,7 +32,6 @@ class StupidGame
         hand.append((gameDeck.drawCard() as? PlayingCard)!)
         hand.append((gameDeck.drawCard() as? PlayingCard)!)
         hand.append((gameDeck.drawCard() as? PlayingCard)!)
-        hand.append((gameDeck.drawCard() as? PlayingCard)!)
     }
     
     func checkMatch() -> Bool

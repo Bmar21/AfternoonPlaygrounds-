@@ -25,7 +25,7 @@ class StupidGame
         drawCards()
     }
     
-    private func drawCards() -> Void
+    fileprivate func drawCards() -> Void
     {
         hand.append((gameDeck.drawCard() as? PlayingCard)!)
         hand.append((gameDeck.drawCard() as? PlayingCard)!)
@@ -58,7 +58,7 @@ class StupidGame
         {
             score -= 10
         }
-        hand.removeAtIndex(0) 
+        hand.remove(at: 0) 
         drawCards()
     }
 

@@ -10,8 +10,8 @@ import UIKit
 
 class CardGameController : UIViewController
 {
-    private lazy var clickCount = Int()
-    private lazy var cardDeck = PlayingCardDeck()
+    fileprivate lazy var clickCount = Int()
+    fileprivate lazy var cardDeck = PlayingCardDeck()
     
     @IBOutlet weak var cardLabel: UILabel!
     @IBOutlet weak var cardButton: UIButton!
@@ -23,7 +23,7 @@ class CardGameController : UIViewController
         print(tempCard.toString)
     }
     
-    @IBAction func cardClick(sender: UIButton)
+    @IBAction func cardClick(_ sender: UIButton)
     {
         clickCount += 1
         
@@ -31,12 +31,12 @@ class CardGameController : UIViewController
         
         if let currentCard = cardDeck.drawRandomCard() as? PlayingCard
         {
-            cardButton.setTitle("\(currentCard.getCardData())", forState:
-                UIControlState.Normal)
+            cardButton.setTitle("\(currentCard.getCardData())", for:
+                UIControlState())
         }
         else
         {
-            cardButton.setTitle("deck over", forState: UIControlState.Normal)
+            cardButton.setTitle("deck over", for: UIControlState())
             cardDeck = PlayingCardDeck()
         }
         

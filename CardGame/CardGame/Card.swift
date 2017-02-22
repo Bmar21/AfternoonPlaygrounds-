@@ -17,7 +17,7 @@ class Card
         isFaceUp = false
     }
     
-    func setFacing(isFaceUp : Bool)
+    func setFacing(_ isFaceUp : Bool)
     {
         self.isFaceUp = isFaceUp
     }
